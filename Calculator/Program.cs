@@ -14,8 +14,27 @@ namespace Calculator
 
         static void Main(string[] args)
         {
-            Console.WriteLine("I do not know what i'm doing so here is a blackbox with text");
-            Console.ReadLine();
+            Console.WriteLine("What is your first number?");
+
+            Addition();
+            {
+                int sum = Number + Number2
+            }
+
+            Subtraction();
+            {
+                int sum = Number - Number2
+            }
+
+            Divison();
+            {
+                int sum = Number / Number2
+            }
+
+            Multiplication();
+            {
+                int sum = Number * Number2
+            }
         }
     }
 }
